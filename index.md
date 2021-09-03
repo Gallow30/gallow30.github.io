@@ -1,10 +1,9 @@
 ## Hi, I am Monica Galloway
 
 You can use the [editor on GitHub](https://github.com/Gallow30/gallow30.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This space collects all of my Pathfinder GM tools and inspiration.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,13 +14,15 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Pathfinger RPG games weekly/biweekly
+- discord streaming
+- foundry tabletop
+- player charactor art
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
